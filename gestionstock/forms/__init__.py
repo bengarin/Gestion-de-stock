@@ -1,0 +1,1 @@
+from gestionstock.forms.auth_forms import LoginForm
